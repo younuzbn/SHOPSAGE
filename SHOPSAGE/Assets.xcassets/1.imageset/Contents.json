@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "desktop-wallpaper-purple-50-hq-retro-1080x720.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
